@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Meadowmile Walk and Travel">
+  <rect width="48" height="48" rx="8" fill="#24523B"/>
+  <path d="M24 5l17 11v16L24 43 7 32V16z" fill="#E6D9BD"/>
+  <path d="M13 32l8-11 5 6 7-9" stroke="#24523B" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,188 @@
+{
+  "store": "05-meadowmile",
+  "storeName": "Meadowmile Walk & Travel",
+  "outDir": "assets/images",
+  "width": 1200,
+  "aspect": "4:3",
+  "quality": 78,
+  "fallbackPalette": [
+    "#24523B",
+    "#E6D9BD",
+    "#2E6E96"
+  ],
+  "_note": "Every image is pinned to an exact Wikimedia Commons file so the build is reproducible. Commons has no photograph of packing cubes or a technical rain shell; mwt-508 and mwt-512 use the nearest honest subject and their alt text describes what is actually shown, not what the product is. Both are on the pre-launch list to replace with real product photography.",
+  "items": [
+    {
+      "slug": "hero",
+      "commonsFile": "Fitness trail on the rail trail near Droschka",
+      "queries": [
+        "hiking trail",
+        "walking path"
+      ],
+      "query": "hiking trail",
+      "alt": "A level walking trail running through open countryside."
+    },
+    {
+      "slug": "cat-foot",
+      "commonsFile": "Afritzer See, Slow Trail, Kärnten 05",
+      "queries": [
+        "walking path",
+        "trail"
+      ],
+      "query": "walking path",
+      "alt": "A gentle lakeside walking path."
+    },
+    {
+      "slug": "cat-carry",
+      "commonsFile": "Backpack small",
+      "queries": [
+        "backpack",
+        "rucksack"
+      ],
+      "query": "backpack",
+      "alt": "A small backpack with shoulder straps."
+    },
+    {
+      "slug": "cat-weather",
+      "commonsFile": "Umbrella in Wellington",
+      "queries": [
+        "umbrella rain",
+        "umbrella"
+      ],
+      "query": "umbrella rain",
+      "alt": "An umbrella held up against a grey sky."
+    },
+    {
+      "slug": "cat-way",
+      "commonsFile": "Nalgene Wide Mouth water bottle (49126638263)",
+      "queries": [
+        "water bottle",
+        "bottle"
+      ],
+      "query": "water bottle",
+      "alt": "A wide-mouthed water bottle."
+    },
+    {
+      "slug": "mwt-501",
+      "commonsFile": "The man with the umbrella walking stick",
+      "queries": [
+        "walking stick",
+        "walking cane"
+      ],
+      "query": "walking stick",
+      "alt": "A walking stick being used on a path."
+    },
+    {
+      "slug": "mwt-502",
+      "commonsFile": "Travel Pillow",
+      "queries": [
+        "travel neck pillow",
+        "neck pillow"
+      ],
+      "query": "travel neck pillow",
+      "alt": "A horseshoe-shaped travel neck pillow."
+    },
+    {
+      "slug": "mwt-503",
+      "commonsFile": "Woman walking with umbrella (Unsplash)",
+      "queries": [
+        "walking umbrella",
+        "umbrella"
+      ],
+      "query": "walking umbrella",
+      "alt": "A long-handled umbrella carried while walking."
+    },
+    {
+      "slug": "mwt-504",
+      "commonsFile": "Pedometer K+R",
+      "queries": [
+        "pedometer",
+        "step counter"
+      ],
+      "query": "pedometer",
+      "alt": "A small pedometer with a numeric display."
+    },
+    {
+      "slug": "mwt-505",
+      "commonsFile": "Backpacks",
+      "queries": [
+        "daypack",
+        "backpack"
+      ],
+      "query": "daypack",
+      "alt": "Small daypacks standing side by side."
+    },
+    {
+      "slug": "mwt-506",
+      "commonsFile": "Orange safety vest (31899942864)",
+      "queries": [
+        "reflective vest",
+        "safety vest"
+      ],
+      "query": "reflective vest",
+      "alt": "A high-visibility safety vest with reflective banding."
+    },
+    {
+      "slug": "mwt-507",
+      "commonsFile": "Retracted trekking poles",
+      "queries": [
+        "trekking poles",
+        "walking poles"
+      ],
+      "query": "trekking poles",
+      "alt": "A pair of trekking poles collapsed to their shortest length."
+    },
+    {
+      "slug": "mwt-508",
+      "queries": [
+        "packing cubes",
+        "travel organiser bag",
+        "luggage organizer"
+      ],
+      "query": "packing cubes",
+      "alt": "Fabric travel bags of the kind used to organise a case.",
+      "commonsFile": "Aflimba bags"
+    },
+    {
+      "slug": "mwt-509",
+      "commonsFile": "Polar Bottle® Insulated Bottles",
+      "queries": [
+        "insulated water bottle",
+        "water bottle"
+      ],
+      "query": "insulated water bottle",
+      "alt": "Insulated drinking bottles standing side by side."
+    },
+    {
+      "slug": "mwt-510",
+      "commonsFile": "Camping stool",
+      "queries": [
+        "folding stool",
+        "camp stool"
+      ],
+      "query": "folding stool",
+      "alt": "A folding three-legged stool with a fabric seat."
+    },
+    {
+      "slug": "mwt-511",
+      "commonsFile": "Desk with notebook pens and glasses",
+      "queries": [
+        "notebook journal",
+        "notebook"
+      ],
+      "query": "notebook journal",
+      "alt": "An open notebook with a pen resting on it."
+    },
+    {
+      "slug": "mwt-512",
+      "queries": [
+        "rain jacket",
+        "waterproof jacket",
+        "anorak"
+      ],
+      "query": "rain jacket",
+      "alt": "Lightweight rain protection worn outdoors.",
+      "commonsFile": "One Smart Guy with a Rain Poncho (6269272577)"
+    }
+  ]
+}

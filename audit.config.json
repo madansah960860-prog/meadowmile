@@ -1,0 +1,101 @@
+{
+  "storeName": "Meadowmile Walk & Travel",
+  "type": "html",
+  "pagesGlob": "**/*.html",
+  "scanGlobs": [
+    "**/*.html",
+    "assets/css/*.css",
+    "assets/js/*.js",
+    "robots.txt",
+    "sitemap.xml"
+  ],
+  "expectedPages": [
+    "index.html",
+    "shop.html",
+    "cart.html",
+    "checkout.html",
+    "about.html",
+    "contact.html",
+    "faq.html",
+    "credits.html",
+    "404.html",
+    "policies/privacy.html",
+    "policies/terms.html",
+    "policies/refund-returns.html",
+    "policies/shipping.html",
+    "policies/accessibility.html",
+    "products/ridgeline-folding-walking-cane.html",
+    "products/cloudrest-travel-neck-pillow.html",
+    "products/sunshade-uv-walking-umbrella.html",
+    "products/big-display-step-counter.html",
+    "products/trailfeather-16l-daypack.html",
+    "products/brightpath-reflective-vest.html",
+    "products/meadowmile-adjustable-trekking-poles-pair.html",
+    "products/packflat-travel-organiser-cubes-set-of-4.html",
+    "products/stillwater-24oz-easy-grip-bottle.html",
+    "products/foldseat-portable-walking-stool.html",
+    "products/wayfinder-large-print-travel-journal.html",
+    "products/allweather-packable-rain-jacket.html",
+    "robots.txt",
+    "sitemap.xml",
+    "favicon.svg"
+  ],
+  "business": {
+    "legalName": "Meadowmile Outfitters LLC",
+    "address": "452 Cedar Ridge Parkway, Suite 7, Boise, ID 83702",
+    "email": "support@meadowmile.com",
+    "phone": "(208) 555-0126",
+    "hours": "Mon–Fri, 11:00 AM–7:00 PM ET",
+    "effectiveDate": "September 12, 2026",
+    "siteUrl": "https://www.meadowmile.com"
+  },
+  "terms": {
+    "returnWindow": "30 days",
+    "freeShippingOver": "$70",
+    "standardShipping": "$7.50",
+    "processing": "2–3 business days",
+    "delivery": "5–8 business days",
+    "expedited": "$17.95"
+  },
+  "footerRequired": [
+    "address",
+    "email",
+    "phone"
+  ],
+  "termPages": [
+    "policies/refund-returns.html",
+    "policies/shipping.html",
+    "faq.html"
+  ],
+  "catalogueSources": {
+    "data": "_generator/data/products.js",
+    "runtime": "assets/js/main.js"
+  },
+  "allow": [
+    "no customer reviews yet",
+    "reviews and testimonials",
+    "we do not buy, incentivise or write",
+    "we will not publish a review",
+    "there are no star ratings",
+    "testimonial or a review without asking",
+    "we do not use placeholder text as a label",
+    "we do not use &ldquo;best&rdquo;",
+    "have not won anything and neither have the poles",
+    "medical outcomes or treatment",
+    "none of them is a certified medical or mobility device",
+    "not a certified medical or mobility device",
+    "is not a certified medical or mobility device",
+    "none of this is medical equipment",
+    "is a walking accessory, not a certified medical",
+    "we do not claim it prevents anything",
+    "walking aid on medical advice",
+    "use a cane on medical advice",
+    "we make no claims about balance",
+    "is the folding cane a medical device",
+    "no, and we do not sell it as one",
+    "are walking accessories with stated height",
+    "none of these is a certified medical or mobility device",
+    "take that advice on which aid to use"
+  ],
+  "_allow_note": "Each entry is a line of copy that DENIES a medical claim — the disclaimers Google Ads policy wants a walking-accessory listing to carry. The scanner matches the forbidden word inside the denial of that word. Nothing here silences a real finding."
+}
